@@ -1,0 +1,6 @@
+# 视频推理所需依赖（CPU 或 GPU 均可）
+ultralytics>=8.4
+opencv-python>=4.8
+numpy>=1.24
+torch>=2.0
+torchvision>=0.15
